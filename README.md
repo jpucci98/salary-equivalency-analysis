@@ -10,7 +10,11 @@ to maintain the same standard of living as a $70,000 salary in Milwaukee.
 - Calculated salary equivalents relative to Milwaukee
 
 ## Visualization
-![Salary Equivalency](figures/salary_equivalent.png)
+
+![Salary Equivalent](figures/salary_equivalent.png)
+
+
+![Nominal vs Real](figures/nominal_vs_real.png)
 
 ## Tools Used
 - Python
